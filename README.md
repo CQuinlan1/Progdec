@@ -1,7 +1,7 @@
 # Progdec
 
  Programming for Data Analytics due date December 13th 2019
- Assignment by Catherine A Celeste Quinlan
+ Project by Catherine A Celeste Quinlan
  
  ![](siora.jpg)
  
@@ -15,7 +15,7 @@
  My investigation will explain my 4 variables chosen as well as their likely distribution , and relationships with each other .
  
  # # Data Simulation:
- Here I will create a selection of arrays and structure them into a dataframe to represent my real life phenenomenon.My data will match the properties I have found as close as possible
+ Here I will create a selection of arrays and structure them into a dataframe to represent my real life phenenomenon.My data will match the properties I have found as close as possible .
  
  
  # # Research:
@@ -25,6 +25,6 @@
  Here I hope to refer back to the data and the conditions I have assumed in the data(set).
  
  # # References :
- I will list all of the various investigations I have located 
+ I will list all of the various investigations I have located.
  
  
