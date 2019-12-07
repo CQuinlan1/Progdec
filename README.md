@@ -13,13 +13,20 @@
  
  # # Investigation :
  My investigation will explain my 4 variables chosen as well as their likely distribution , and relationships with each other .
+ * My variables are :
+ * Junior Certificate Higher Maths grades
+ * Gender
+ * Age 
+ * Hours spent on homework per week
+ * Leaving Certificate Maths Higher Level grades
  
  # # Data Simulation:
- Here I will create a selection of arrays and structure them into a dataframe to represent my real life phenenomenon.My data will match the properties I have found as close as possible .
+ Here I will create a selection of arrays and structure them into a dataframe to represent my real life phenenomenon. My data will match the properties I have found or will be  as close as possible .
  
  
  # # Research:
- Here I will make reference to other websites or issues I have also noted.
+ My research has involved the examinations website statistics,the PISA reports, Growing Up in Ireland reports, School Leaver Reports and other ERSI reports.
+ Although many variables such as social level, parental education, parental income, number of Maths teaching hours received,and  extracurricular maths classes attended,I found that  this information while equally as important as my variables, is unavailable in raw data, and  is presented in summaries and in some cases graphically without exact figures.
  
  # #  Conclusion:
  Here I hope to refer back to the data and the conditions I have assumed in the data(set).
