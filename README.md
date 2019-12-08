@@ -7,8 +7,9 @@
  
  
  # # Description:
- My assignment is based on the link that exists between Junior certicficate and Leaving certificate higher level Maths.The data I researched shows  that in  2016-2019 those doing higher Maths for Leaving certificate is half the amount doing it at Junior cycle. my interest lies in why we lose so many students, the gender difference, and what are the factors that would halp retain more students in Higher level.
- I will explain my reasoning behind the choice of distribution and other issues.
+ My assignment is based on the link that exists between Junior certificate and Leaving certificate higher level Maths.The data I researched shows that in  2016-2019 those doing higher Maths for Leaving certificate is half the amount doing it at Junior cycle. My interest lies in why we lose so many students, the gender difference, and what are the factors that would halp retain more students in Higher level.
+ I have had to rely on the data on the examinations website,as due to student data protection I am not at present able to precure exact individual data.
+ I will explain my reasoning behind the choice of distribution also in the random packages and other issues.
   
  
  # # Investigation :
